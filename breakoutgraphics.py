@@ -77,19 +77,11 @@ class BreakoutGraphics:
 
         # Initialize our mouse listeners
         onmousemoved(self.reset_paddle_position)
-        # onmousemoved(self.reset_new_paddle_position)  # breakout2 未完成
         onmouseclicked(self.ball_start_moving)
         self.ball_moving = False                      # def 裡面要用到的variable要先在__init__裡面定義，初始化
         self.__dx = 0
         self.__dy = 0
 
-        # new_baddle， breakout2 未完成
-        # self.new_baddle = GRect(width=paddle_width*2, height=paddle_height)
-        # self.new_baddle.filled = True
-        # self.new_baddle.fill_color = 'yellowgreen'
-        # self.new_baddle.color = 'yellowgreen'
-
-        # Default initial velocity for the ball
     def get_dx(self):
         """
         dx = random.randrange(1, MAX_X_SPEED)
@@ -163,14 +155,6 @@ class BreakoutGraphics:
         """
         return BRICK_COLS
 
-    # breakout2 未完成
-    # def reset_new_paddle_position(self, mouse):
-    #     if mouse.x >= self.window.width-self.new_paddle.width / 2:
-    #         self.new_paddle.x = self.window.width-self.nwe_paddle.width
-    #     elif mouse.x <= self.new_paddle.width/2:
-    #         self.new_paddle.x = 0
-    #     else:
-    #         self.new_paddle.x = mouse.x - self.new_paddle.width / 2
-    #     self.new_paddle.y = self.window.height - PADDLE_OFFSET
+    
 
 
