@@ -11,3 +11,5 @@
   * 滑鼠點擊球後，球會自然彈跳。
 * [breakout](https://github.com/liuweichen789/MystanCodeProjects/blob/main/breakout.py)
   * 敲磚塊遊戲，球敲到磚塊，磚塊會消失。
+* [draw_line](https://github.com/liuweichen789/MystanCodeProjects/blob/main/draw_line.py)
+ * 滑鼠點擊產生起點，滑鼠再點擊，產生一條線。
