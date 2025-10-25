@@ -18,4 +18,4 @@
 * [largest_digit](https://github.com/liuweichen789/MystanCodeProjects/blob/main/largest_digit.py)
   * 輸入一整數，找出此整數中最大的數字。
 * [new_head](https://github.com/liuweichen789/MystanCodeProjects/blob/main/new_head.py)
-  *ListNode練習。
+  * ListNode練習。
