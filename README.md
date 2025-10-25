@@ -9,3 +9,5 @@
   * 輸入4行各4個字母，取每個字母與其相鄰的字母排列成異序字。
 * [bouncing_ball](https://github.com/liuweichen789/MystanCodeProjects/blob/main/bouncing_ball.py)
   * 滑鼠點擊球後，球會自然彈跳。
+* [breakout](https://github.com/liuweichen789/MystanCodeProjects/blob/main/breakout.py)
+  * 敲磚塊遊戲，球敲到磚塊，磚塊會消失。
