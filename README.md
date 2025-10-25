@@ -13,5 +13,7 @@
   * 敲磚塊遊戲，球敲到磚塊，磚塊會消失。
 * [draw_line](https://github.com/liuweichen789/MystanCodeProjects/blob/main/draw_line.py)
   * 滑鼠點擊產生起點，滑鼠再點擊，產生一條線。
+* [my_drawing](https://github.com/liuweichen789/MystanCodeProjects/blob/main/my_drawing.py)
+  * GObjects 畫圖。
 * [largest_digit](https://github.com/liuweichen789/MystanCodeProjects/blob/main/largest_digit.py)
   * 輸入一整數，找出此整數中最大的數字。
