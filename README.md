@@ -7,3 +7,5 @@
   * 輸入英文名字，畫出不同年份該名字的排名折線圖。
 * [boggle](https://github.com/liuweichen789/MystanCodeProjects/blob/main/boggle.py)
   * 輸入4行各4個字母，取每個字母與其相鄰的字母排列成異序字。
+* [bouncing_ball](https://github.com/liuweichen789/MystanCodeProjects/blob/main/bouncing_ball.py)
+  * 滑鼠點擊球後，球會自然彈跳。
