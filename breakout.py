@@ -33,9 +33,6 @@ def main():
             vy = graphics.get_dy()
             while True:  # 球除了掉到下面，打到其他牆壁要反彈。
                 graphics.ball.move(vx, vy)
-                if brick_count > graphics.get_brick_cols()*graphics.get_brick_rows()*0.7:  # 磚塊消滅7成後，球的速度加快。
-                    vy += 0.25
-                    vx += 0.2
                 if graphics.ball.x <= 0 or graphics.ball.x + graphics.ball.width >= graphics.window.width:
                     vx = -vx
                 if graphics.ball.y < 0:
