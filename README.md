@@ -12,6 +12,7 @@
   * watch my [DEMO VIDEO](https://drive.google.com/file/d/1fYDn2Rw1kfA7G2mXu-6VzflVopIKL4Hw/view?usp=sharing)
 * [breakout](https://github.com/liuweichen789/MystanCodeProjects/blob/main/breakout.py)
   * 敲磚塊遊戲，球敲到磚塊，磚塊會消失。
+  * watch my [DEMO VIDEO](https://drive.google.com/file/d/1wV7M109z1z_SlkZNZmbY1yPGN4aBn1Er/view?usp=sharing)
 * [draw_line](https://github.com/liuweichen789/MystanCodeProjects/blob/main/draw_line.py)
   * 滑鼠點擊產生起點，滑鼠再點擊，產生一條線。
   * watch my [DEMO VIDEO](https://drive.google.com/file/d/1iSnaSjWgS35HI_J0x0EwiN3Uf3g2L8IR/view?usp=sharing)
