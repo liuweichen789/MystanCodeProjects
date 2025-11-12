@@ -10,11 +10,12 @@
   * 輸入4行各4個字母，取每個字母與其相鄰的字母排列成異序字。
 * [bouncing_ball](https://github.com/liuweichen789/MystanCodeProjects/blob/main/bouncing_ball.py)
   * 滑鼠點擊球後，球會自然彈跳。
-  * watch my [DEMO VIDEO]("C:\Users\m9620\Videos\Captures\bouncing_ball.mp4")
+  * watch my [DEMO VIDEO](https://drive.google.com/file/d/1OhUgfiakoj38BixXKhuTKwdNzD2379j7/view?usp=sharing)
 * [breakout](https://github.com/liuweichen789/MystanCodeProjects/blob/main/breakout.py)
   * 敲磚塊遊戲，球敲到磚塊，磚塊會消失。
 * [draw_line](https://github.com/liuweichen789/MystanCodeProjects/blob/main/draw_line.py)
   * 滑鼠點擊產生起點，滑鼠再點擊，產生一條線。
+  * watch my[DEMO VIDEO](https://drive.google.com/file/d/1ewZlxbJq5jhoGqiU926nPXiZf28rSeQN/view?usp=sharing)
 * [my_drawing](https://github.com/liuweichen789/MystanCodeProjects/blob/main/my_drawing.py)
   * GObjects 畫圖。
 * [largest_digit](https://github.com/liuweichen789/MystanCodeProjects/blob/main/largest_digit.py)
