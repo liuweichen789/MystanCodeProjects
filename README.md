@@ -5,6 +5,7 @@
   * 輸入一單字，找出所有異序字。
 * [babygraphics](https://github.com/liuweichen789/MystanCodeProjects/blob/main/babygraphics.py)
   * 輸入英文名字，畫出不同年份該名字的排名折線圖。
+  * watch my [DEMO VIDEO](https://drive.google.com/file/d/1xMvntXOaD6JGoJoZfPb2bJ1Opzr9HERD/view?usp=sharing)
 * [boggle](https://github.com/liuweichen789/MystanCodeProjects/blob/main/boggle.py)
   * 輸入4行各4個字母，取每個字母與其相鄰的字母排列成異序字。
 * [bouncing_ball](https://github.com/liuweichen789/MystanCodeProjects/blob/main/bouncing_ball.py)
