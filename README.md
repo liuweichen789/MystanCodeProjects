@@ -26,5 +26,6 @@
   * ListNode練習。
 * [sierpinski](https://github.com/liuweichen789/MystanCodeProjects/blob/main/sierpinski.py)
   * Fractal (遞迴概念) 、self similarity（⾃相似)，依不同階層，畫出倒三角與內部的三角形。
+  * [sierpinski](https://drive.google.com/file/d/1kGt6vOdbAuLQfpjE2HFtwptIG4MSNWTi/view?usp=sharing)
 * [stanCodoshop](https://github.com/liuweichen789/MystanCodeProjects/blob/main/stanCodoshop.py)
   * 將照片中的路人移除。
