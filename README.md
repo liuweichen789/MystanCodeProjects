@@ -28,5 +28,3 @@
   * Fractal (遞迴概念) 、self similarity（⾃相似)，依不同階層，畫出倒三角與內部的三角形。
 * [stanCodoshop](https://github.com/liuweichen789/MystanCodeProjects/blob/main/stanCodoshop.py)
   * 將照片中的路人移除。
-* [webcrawler](https://github.com/liuweichen789/MystanCodeProjects/blob/main/webcrawler.py)
-  * 網路爬蟲，計算男女新生兒數量。
