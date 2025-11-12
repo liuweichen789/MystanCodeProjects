@@ -18,6 +18,7 @@
   * watch my [DEMO VIDEO](https://drive.google.com/file/d/1iSnaSjWgS35HI_J0x0EwiN3Uf3g2L8IR/view?usp=sharing)
 * [my_drawing](https://github.com/liuweichen789/MystanCodeProjects/blob/main/my_drawing.py)
   * GObjects 畫圖。
+  * [my drawing](https://drive.google.com/file/d/1lL0ojKd7-wWAMi2hbjfxVbGfI4DGBSeB/view?usp=sharing)
 * [largest_digit](https://github.com/liuweichen789/MystanCodeProjects/blob/main/largest_digit.py)
   * 輸入一整數，找出此整數中最大的數字。
 * [new_head](https://github.com/liuweichen789/MystanCodeProjects/blob/main/new_head.py)
