@@ -3,6 +3,7 @@
   * ListNode練習。
 * [anagram](https://github.com/liuweichen789/MystanCodeProjects/blob/main/anagram3.py)
   * 輸入一單字，找出所有異序字。
+  * watch my [DEMO VIDEO](https://drive.google.com/file/d/1FbD4dVQVG-7bkpVD4g32NOoVW9OwIVGT/view?usp=sharing)
 * [babygraphics](https://github.com/liuweichen789/MystanCodeProjects/blob/main/babygraphics.py)
   * 輸入英文名字，畫出不同年份該名字的排名折線圖。
   * watch my [DEMO VIDEO](https://drive.google.com/file/d/1xMvntXOaD6JGoJoZfPb2bJ1Opzr9HERD/view?usp=sharing)
