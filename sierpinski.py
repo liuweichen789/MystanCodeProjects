@@ -12,7 +12,7 @@ from campy.graphics.gobjects import GLine
 from campy.gui.events.timer import pause
 
 # Constants
-ORDER = 2                  # Controls the order of Sierpinski Triangle
+ORDER = 5                  # Controls the order of Sierpinski Triangle
 LENGTH = 600               # The length of order 1 Sierpinski Triangle
 UPPER_LEFT_X = 150		   # The upper left x coordinate of order 1 Sierpinski Triangle
 UPPER_LEFT_Y = 100         # The upper left y coordinate of order 1 Sierpinski Triangle
