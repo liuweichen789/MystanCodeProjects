@@ -1,6 +1,6 @@
 # MystanCodeProjects
 * [add2](https://github.com/liuweichen789/MystanCodeProjects/blob/main/add2.py)
-  * ListNode練習。
+  * Linked List練習。
 * [anagram](https://github.com/liuweichen789/MystanCodeProjects/blob/main/anagram.py)
   * 輸入一單字，找出所有異序字。
   * watch my [DEMO VIDEO](https://drive.google.com/file/d/1FbD4dVQVG-7bkpVD4g32NOoVW9OwIVGT/view?usp=sharing)
@@ -25,7 +25,7 @@
 * [largest_digit](https://github.com/liuweichen789/MystanCodeProjects/blob/main/largest_digit.py)
   * 輸入一整數，找出此整數中最大的數字。
 * [new_head](https://github.com/liuweichen789/MystanCodeProjects/blob/main/new_head.py)
-  * ListNode練習。
+  * Linked List練習。
 * [sierpinski](https://github.com/liuweichen789/MystanCodeProjects/blob/main/sierpinski.py)
   * Fractal (遞迴概念) 、self similarity（⾃相似)，依不同階層，畫出倒三角與內部的三角形。
   * [result: sierpinski](https://drive.google.com/file/d/1kGt6vOdbAuLQfpjE2HFtwptIG4MSNWTi/view?usp=sharing)
